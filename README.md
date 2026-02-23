@@ -98,3 +98,32 @@ These projects combine multiple states and logic.
 - Total price calculation
 - Array & object state management
 
+## 🎯 Learning Outcomes
+
+After completing this repository, you will understand:
+
+- How React state works internally
+- How re-rendering happens
+- How to manage boolean, number, string, and array state
+- Controlled form handling
+- Conditional rendering
+- State immutability
+- Complex state logic
+
+---
+
+**🙋‍♀️ Author**
+
+## Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
+
