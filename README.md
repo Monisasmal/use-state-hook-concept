@@ -80,3 +80,21 @@ Update UI every second using state + interval.
 
 ----
 
+## 🟣 Intermediate Concepts
+These projects combine multiple states and logic.
+
+🔹 Validated Login Form
+
+- Input validation
+- Error handling
+- Conditional rendering
+- Controlled form management
+
+🔹 Cart System
+
+- Add to cart
+- Remove item
+- Quantity update
+- Total price calculation
+- Array & object state management
+
